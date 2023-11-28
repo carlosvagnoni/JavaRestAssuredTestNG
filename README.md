@@ -14,21 +14,21 @@ This suite of tests is focused on validating and testing CRUD (Create, Read, Upd
 These tests are designed to ensure the functionality and correctness of these user management endpoints provided by the Swagger Petstore API. They interact with the defined URLs in the Routes class to perform comprehensive testing of user-related functionalities.
 
 ## Table of Contents 📑
-- [Requirements](#requirements-)
-- [Folder Structure](#folder-structure-)
-- [Installation](#installation-)
-- [Configuration](#configuration-)
-- [Test Execution](#test-execution-)
-- [Contact](#contact-)
+- [Requirements](#requirements)
+- [Folder Structure](#folder-structure)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Test Execution](#test-execution)
+- [Contact](#contact)
 
-## Requirements 📋
+## <a id="requirements">Requirements 📋</a>
 
 - JDK 21
 - Lombok 1.18.30
 - REST Assured 5.3.2
 - TestNG 7.8.0
 
-## Folder Structure 📂
+## <a id="folder-structure">Folder Structure 📂</a>
 
 - **pom.xml:** Maven configuration file specifying project dependencies.
 - **run.bat:** Batch script for execution in a Windows environment.
@@ -64,7 +64,7 @@ These tests are designed to ensure the functionality and correctness of these us
 
 - **Userdata.xlsx:** Excel file containing user data used in testing.
 
-## Installation 🛠️
+## <a id="installation">Installation 🛠️</a>
 
 1. Clone this repository:
 
@@ -79,11 +79,11 @@ These tests are designed to ensure the functionality and correctness of these us
     mvn clean compile
     ```
 
-## Configuration ⚙️
+## <a id="configuration">Configuration ⚙️</a>
 
 - Userdata.xlsx can be modified to add any necessary data. The file accepts an arbitrary amount of data, accommodating any quantity of entries.
 
-## Test Execution ▶️
+## <a id="test-execution">Test Execution ▶️</a>
 
 Run all the tests:
 
@@ -102,7 +102,7 @@ start "" "reports\Test-Report.html"
 - Set up the respective environment variables beforehand.
 - On Windows environments, you can directly execute the `run.bat` file.
 
-## Contact 📧
+## <a id="contact">Contact 📧</a>
 
 If you have any questions or suggestions, feel free to contact me through my social media accounts.
 
