@@ -4,7 +4,7 @@ This project provides a structure and tools for automated API testing using Java
 
 ## Testing Swagger Petstore User Management Endpoints 🧪
 
-This suite of tests is focused on validating and testing CRUD (Create, Read, Update, Delete) operations related to user management within the Swagger Petstore API (Base URL: petstore.swagger.io/v2). Specifically, the tests interact with the following endpoints:
+This suite of tests is focused on validating and testing CRUD (Create, Read, Update, Delete) operations related to user management within the Swagger Petstore API (Base URL: https://petstore.swagger.io). Specifically, the tests interact with the following endpoints:
 
 - Create User (POST): Endpoint URL: https://petstore.swagger.io/v2/user
 - Get User (GET): Endpoint URL: https://petstore.swagger.io/v2/user/{username}
