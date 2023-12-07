@@ -1,6 +1,10 @@
-# Automated API Testing with Java, REST Assured, and TestNG 🤖☕
+# Automated API Testing with Java, REST Assured, and TestNG
 
-This project provides a structure and tools for automated API testing using Java, REST Assured, and TestNG, following Data-Driven Testing (DDT) best practices and employing the Service Object Model design pattern.
+![Static Badge](https://img.shields.io/badge/Java-logo?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=rgb(229%2C%2031%2C%2036)&color=rgb(22%2C%2027%2C%2034))
+![Static Badge](https://img.shields.io/badge/RestAssured-logo?style=for-the-badge&logo=restassured&logoColor=rgb(15%2C%20155%2C%2046)&labelColor=black&color=rgb(22%2C%2027%2C%2034))
+![Static Badge](https://img.shields.io/badge/TestNG-logo?style=for-the-badge&logo=testng&logoColor=rgb(255%2C%20192%2C%200)&labelColor=rgb(192%2C%200%2C%200)&color=rgb(22%2C%2027%2C%2034))
+
+This project offers a framework and tools for automated API testing using Java, REST Assured, and TestNG, following Data-Driven Testing (DDT) best practices and employing the Service Object Model design pattern.
 
 ## Testing Swagger Petstore User Management Endpoints 🧪
 
